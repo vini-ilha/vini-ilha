@@ -1,1 +1,2 @@
-
+O sistema de drenagem inteligente foi uma proposta de um trabalho acadêmico no curso de Ciências da Computação, em que era necessário analisar um problema na sociedade e desenvolver uma proposta de resolução.
+Nesse caso, eu e minha dupla vimos a necessidade de um monitoramento nos bueiros para evitar o congestionamento deles em um caso que a água deve ser drenada das ruas, e em resposta a isso, desenvolvemos a ideia apresentada a seguir.
