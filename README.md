@@ -23,9 +23,7 @@ Aqui estão as tecnologias que estou estudando e aplicando nos meus projetos do 
 
 Este repositório principal serve de portal para os meus projetos. Conheça as aplicações que estou desenvolvendo:
 
-* **[Nome do Seu Projeto Principal]**: Uma breve frase explicando o que o projeto faz (Ex: *Um sistema web para controle de finanças pessoais*).
-  * 🔧 **Tech Stack**: HTML, CSS, JavaScript.
-  * 🤝 **Contribua**: Este projeto é open-source! Críticas, sugestões e Pull Requests são super bem-vindos.
+  * Nenhum, por enquanto...
   * 🔗 [Acessar o Repositório do Projeto](https://github.com/vini-ilha/NOME-DO-REPOSITORIO-AQUI)
 
 ---
